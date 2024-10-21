@@ -1,3 +1,0 @@
-ssh-keygen -t rsa -b 2048 -f ~/.ssh/id_rsa
-ssh-copy-id namolete@vliisjmpoth201
-alias j='ssh namolete@vliisjmpoth201'
